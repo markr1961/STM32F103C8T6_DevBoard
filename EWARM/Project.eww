@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\STM32F103C8T dev board.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>all</name>
+      <member>
+        <project>STM32F103C8T dev board</project>
+        <configuration>STM32F103C8T dev board</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+
