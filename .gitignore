@@ -138,3 +138,4 @@ EWARM/STM32F103C8T dev board/Obj/usart.pbi.xcl
 EWARM/STM32F103C8T dev board/Obj/usb.o
 EWARM/STM32F103C8T dev board/Obj/usb.pbi
 EWARM/STM32F103C8T dev board/Obj/usb.pbi.xcl
+EWARM/STM32F103C8T dev board.dep

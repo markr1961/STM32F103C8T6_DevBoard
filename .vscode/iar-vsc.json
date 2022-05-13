@@ -1,5 +1,5 @@
 {
-    "ewp": "c:\\OneDrive\\ST STM32\\STM32F103C8T_DevBoard\\EWARM\\STM32F103C8T dev board.ewp",
+    "ewp": "e:\\Src\\STM32F103C8T_StudyBoard\\EWARM\\STM32F103C8T dev board.ewp",
     "configuration": "STM32F103C8T dev board",
     "compiler": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 7.5\\arm\\bin\\iccarm.exe",
     "workbench": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 7.5"

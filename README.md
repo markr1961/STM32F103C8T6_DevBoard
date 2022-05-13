@@ -25,7 +25,7 @@ I2C-like support for a TM1637 is implemented using bit-banged I/O.
 The original source is from https://github.com/rogerdahl/stm32-tm1637
 The code has been modified in several ways:
 - I/O is mapped to I2C1 pins on STM32F103C8T6.
-- use uSecDelay() for uSec dlays. This function used the SysTick counter for accurate timing.
+- use uSecDelay() for uSec delays. This function used the SysTick counter for accurate timing.
 - IC2 CLK is push-pull, I2C data is push-pull for all cycles except during ACK from TM1637.
 - ACK is checked as part of byte write function.
 - return ACK status (presently ignored.)
